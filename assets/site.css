@@ -1,0 +1,59 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 900px;
+    margin: 2em;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    margin-bottom: 5px;
+}
+
+pre, code {
+    font-family: 'Lucida Console', Monaco, monospace;
+}
+
+nav a {
+    padding-right: 5px;
+}
+
+ul.unstyled {
+    list-style: none;
+    padding-left: 0px;
+}
+
+figure {
+    margin-left: 0px;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-right: auto;
+    display: block;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+	width: 100%;
+    }
+
+    .hide-on-mobile {
+	display: none;
+    }
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Ben Parks, Ph.D.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/assets/site.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <h1>Ben Parks, Ph.D.</h1>
+    <hr/>
+    <nav>
+      <a href="{% link index.html %}" >Home</a>
+      <a href="{% link publications.html %}">Publications</a>
+    </nav>
+    <hr/>
+    {{ content }}
+    <hr/>
+    <footer>
+      <small>&copy; {{ 'now' | date: '%Y' }} Benjamin Parks</small>
+    </footer>
+  </body>
+</html>

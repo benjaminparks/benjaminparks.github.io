@@ -1,0 +1,12 @@
+---
+title: Publications
+---
+
+<h2>Articles</h2>
+<ul class="unstyled">
+  {% for article in site.data.articles %}
+  <li>
+    {% include publication.html p=article %}
+  </li>
+  {% endfor %}
+</ul>

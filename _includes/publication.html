@@ -1,0 +1,10 @@
+{% assign p = include.p %}
+{% if p.link %}
+"<a href="{{ p.link }}">{{ p.title }}</a>."
+{% else %}
+<span>"{{ p.title }}."</span>
+{% endif %}
+<em>{{ p.journal }}</em>
+{% if p.issue %}
+<span>{{ p.issue }}</span>
+{% endif %}
