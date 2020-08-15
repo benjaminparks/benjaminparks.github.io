@@ -10,3 +10,30 @@ title: Publications
   </li>
   {% endfor %}
 </ul>
+
+<h2>Essays</h2>
+<ul class="unstyled">
+  {% for article in site.data.essays %}
+  <li>
+    {% include publication.html p=article %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Book Reviews</h2>
+<ul class="unstyled">
+  {% for article in site.data.book_reviews %}
+  <li>
+    {% include publication.html p=article %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Edited Volumes</h2>
+<ul class="unstyled">
+  {% for article in site.data.edited_volumes %}
+  <li>
+    {% include publication.html p=article %}
+  </li>
+  {% endfor %}
+</ul>
