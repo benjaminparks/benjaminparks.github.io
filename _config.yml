@@ -1,6 +1,9 @@
+timezone: America/Chicago
+
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
 
 defaults:
   -
