@@ -1,8 +1,20 @@
 [
-  {
-    "title": "Frankenstein’s Scientific Chaoskampf",
-    "journal": "The Church Life Journal",
-    "issue": "September 13, 2018",
-    "link": "https://churchlife.nd.edu/2018/09/13/frankensteins-scientific-chaoskampf/"
-  }
+    {
+	"title": "Avatar the Last Airbender and the Enframing",
+	"journal": "And Philosophy",
+	"issue": "January 21, 2022",
+	"link": "https://andphilosophy.com/2022/01/21/avatar-the-last-airbender-and-the-enframing/"
+    },
+    {
+	"title": "The Cure for Fearful Rites",
+	"journal": "The Church Life Journa",
+	"issue": "January 5, 2021",
+	"link": "https://churchlifejournal.nd.edu/articles/the-cure-for-fearful-rites/"
+    },
+    {
+	"title": "Frankenstein’s Scientific Chaoskampf",
+	"journal": "The Church Life Journal",
+	"issue": "September 13, 2018",
+	"link": "https://churchlife.nd.edu/2018/09/13/frankensteins-scientific-chaoskampf/"
+    }
 ]

@@ -29,6 +29,15 @@ title: Publications
   {% endfor %}
 </ul>
 
+<h2>Book Chapters</h2>
+<ul class="unstyled">
+  {% for article in site.data.book_chapters %}
+  <li>
+    {% include publication.html p=article %}
+  </li>
+  {% endfor %}
+</ul>
+
 <h2>Edited Volumes</h2>
 <ul class="unstyled">
   {% for article in site.data.edited_volumes %}

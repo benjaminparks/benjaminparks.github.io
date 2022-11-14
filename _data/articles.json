@@ -1,60 +1,90 @@
 [
-  {
-    "author": "Parks, Benjamin N.",
-    "status": "In Preparation",
-    "title": "Chaos Control: A Genealogy of Transhumanism’s Ontology",
-    "journal": "International Journal for the Study of Religion"
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "status": "In Preparation",
-    "title": "Highway to Cocytus: On Bio-moral Enhancement and Apatheia",
-    "journal": "Christian Bioethics"
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2021",
-    "status": "Forthcoming",
-    "title": "Whose Religion? Which Secularity? Religion and Irreligion in Bioethics",
-    "journal": "Journal of Medicine and Philosophy"
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2020",
-    "title": "Eighth and Fourteenth Amendment Concerns with the BOP Guidelines for Advance Directives",
-    "journal": "Voices in Bioethics",
-    "issue": "6 (February)",
-    "link": "https://doi.org/10.7916/vib.v6i.5906"
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2020",
-    "title": "A Thousand and One Thebaidian Noons: Transhumanism and Acedia",
-    "journal": "The Heythrop Journal",
-    "issue": "January 21",
-    "link": "https://doi.org/10.1111/heyj.13481",
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2019",
-    "title": "From the Waters of Babylon: Frankenstein, Transhumanism, and Cosmogony",
-    "journal": "Trinity Journal",
-    "issue": "40 (December)",
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2019",
-    "title": "The Case for Conserving Monsters: Rosemarie Garland-Thomson and the Body of Christ",
-    "journal": "Journal of Disability & Religion",
-    "issue": "October 25",
-    "link": "https://doi.org/10.1080/23312521.2019.1682103."
-  },
-  {
-    "author": "Parks, Benjamin N.",
-    "year": "2019",
-    "title": "Simon Says: On the Magical Impulse of Empirical Studies on Intercessory Prayer",
-    "journal": "Christian Bioethics",
-    "issue": "25, no. 1 (March)",
-    "link": "https://doi.org/10.1093/cb/cby020"
-  }
+    {
+	"title": "Dante, Stiegler, and ‘That Transhuman Change’: The Technicity of Theosis",
+	"author": "Parks, Benjamin N.",
+	"status": "In preparation",
+	"journal": "Journal of Religious Ethics",
+    },
+    {
+	"title": "On the Supposed Internal Critiques of Theistic Virtue Based Rejections of Moral Bioenhancement",
+	"author": "Parks, Benjamin N., Jordan Mason, and Philip Fung",
+	"status": "Under review",
+	"journal": "Studies in Christian Ethics",
+    },
+    {
+	"title": "Hunting Tiamat: A Genealogy of a Transhumanist Ontology",
+	"author": "Parks, Benjamin N.",
+	"status": "Under review",
+	"journal": "European Journal for Philosophy of Religion",
+    },
+    {
+	"title": "God Became Human that Humans Might Become Transhuman?",
+	"author": "Parks, Benjamin N.",
+	"status": "Forthcoming",
+	"year": "2022",
+	"journal": "Christian Bioethics",
+    },
+    {
+	"title": "Highway to Cocytus or Ascent to Paradise: Apatheia and Moral Bioenhancement",
+	"author": "Parks, Benjamin N.",
+	"year": "2022",
+	"journal": "Christian Bioethics",
+	"issue": "(October)",
+	"link": "https://doi.org/10.1093/cb/cbac012"
+    },
+    {
+	"title": "The Standardization of Clinical Ethics Consultation and Technique’s ‘Long Encirclement’ of Humanity: A Response to Brummett and Muaygil",
+	"author": "Parks, Benjamin N. and Jordan Mason",
+	"year": "2021",
+	"journal": "Philosophy, Ethics, & Humanities in Medicine",
+	"issue": "16, no. 13 (October)",
+	"link": "https://doi.org/10.1186/s13010-021-00112-y"
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2021",
+	"title": "Whose (Ir)Religion? Which Bioethics?",
+	"journal": "Journal of Medicine and Philosophy",
+	"issue": "46, no. 2 (April)",
+	"link": "https://doi.org/10.1093/jmp/jhaa040"
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2020",
+	"title": "Eighth and Fourteenth Amendment Concerns with the BOP Guidelines for Advance Directives",
+	"journal": "Voices in Bioethics",
+	"issue": "6 (February)",
+	"link": "https://doi.org/10.7916/vib.v6i.5906"
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2020",
+	"title": "A Thousand and One Thebaidian Noons: Transhumanism and Acedia",
+	"journal": "The Heythrop Journal",
+	"issue": "January 21",
+	"link": "https://doi.org/10.1111/heyj.13481",
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2019",
+	"title": "From the Waters of Babylon: Frankenstein, Transhumanism, and Cosmogony",
+	"journal": "Trinity Journal",
+	"issue": "40 (December)",
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2019",
+	"title": "The Case for Conserving Monsters: Rosemarie Garland-Thomson and the Body of Christ",
+	"journal": "Journal of Disability & Religion",
+	"issue": "October 25",
+	"link": "https://doi.org/10.1080/23312521.2019.1682103."
+    },
+    {
+	"author": "Parks, Benjamin N.",
+	"year": "2019",
+	"title": "Simon Says: On the Magical Impulse of Empirical Studies on Intercessory Prayer",
+	"journal": "Christian Bioethics",
+	"issue": "25, no. 1 (March)",
+	"link": "https://doi.org/10.1093/cb/cby020"
+    }
 ]
